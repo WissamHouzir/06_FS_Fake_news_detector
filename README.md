@@ -93,11 +93,12 @@ Construire l’image Docker depuis le répertoire app_fastapi.
 L'application comporte les variables d'environnement suivantes :
 ```
 MLFLOW_TRACKING_APP_URI=Endpoint_du_serveur_MLFlow
-MODEL_NAME=Nom_du_modèle
-STAGE=Alias_du_modèle
+MODEL_NAME=Nom_exact_du_modèle
+STAGE=Alias_du_modèle (=production)
 AWS_ACCESS_KEY_ID=Votre_ID_clé_AWS
 AWS_SECRET_ACCESS_KEY=Votre_clé_secrète_AWS
 ```
+**IMPORTANT** : Ajouter l'alias 'production' au modèle dans mlflow.
 
 ### 4. Déployer l'application Streamlit (Frontend)
 
