@@ -1,0 +1,16 @@
+mlflow==2.21.3
+scikit-learn==1.4.2
+torch==2.2.0 
+torchvision==0.17.0 
+torchaudio==2.2.0
+numpy==1.24.4
+sentencepiece>=0.1.97
+transformers==4.38.0
+accelerate==0.27.0
+huggingface-hub==0.19.4
+tokenizers==0.15.2
+python-dotenv==1.0.0
+datasets
+pandas
+boto3
+fsspec

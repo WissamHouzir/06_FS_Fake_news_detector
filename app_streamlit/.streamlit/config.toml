@@ -1,0 +1,13 @@
+[browser]
+serverAddress = "localhost"
+
+[global]
+dataFrameSerialization = "legacy"
+
+[theme]
+base="light"
+primaryColor="#000000ff"
+textColor="#000000ff"
+
+[client]
+showSidebarNavigation = false
