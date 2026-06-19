@@ -36,6 +36,7 @@ Le projet inclut cinq modèles entraînables via des scripts python `train.py` :
 - **Sélection dynamique du modèle** grâce aux variables d’environnement :
   - `MODEL_NAME` : Nom du modèle à utiliser.
   - `STAGE` : Alias pour sélectionner la version du modèle (via MLFlow).
+Lien API : https://wissamh-real-time-climate-fake-news.hf.space
 
 ### Interface utilisateur (GUI) avec Streamlit
 - **Déploiement facile** via Docker.
