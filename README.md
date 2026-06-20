@@ -41,7 +41,7 @@ Le projet inclut cinq modèles entraînables via des scripts python `train.py` :
 ### Interface utilisateur (GUI) avec Streamlit
 - **Déploiement facile** via Docker.
 - **Intégration avec l’API FastAPI** pour les prédictions.
-- https://wissamh-full-stack-try-fake-news-detector.hf.space
+- lien Streamlit App : https://wissamh-full-stack-try-fake-news-detector.hf.space
 
 ---
 
